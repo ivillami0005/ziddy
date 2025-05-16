@@ -1,12 +1,10 @@
 {
   "name": "Ziddy Repo",
+  "identifier": "com.ismaeltech",
   "subtitle": "A source for all of my apps",
   "description": "Welcome to my source! Here you'll find all of my apps.",
   "iconURL": "https://i.imgur.com/kxhBIVt.png",
   "website": "https://ismaeltech.com",
-  "patreonURL": "",
-  "tintColor": "#001671",
-  "featuredApps": [],
   "apps": [
     {
       "name": "YouTube Music",
@@ -17,8 +15,6 @@
       "localizedDescription": "An app injected with ipapatch from asdfzxcbn.",
       "iconURL": "https://i.imgur.com/E80raUh.png",
       "tintColor": "#fc0434",
-      "category": "other",
-      "screenshots": [],
       "versions": [
         {
           "version": "8.19.2",
@@ -26,22 +22,11 @@
           "localizedDescription": null,
           "downloadURL": "https://github.com/ivillami0005/YTMusicUltimate/releases/download/yay/YTMusicUltimate-patched.ipa",
           "size": 95745474,
-          "buildVersion": "",
-          "minOSVersion": null
         }
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {
-          "NSBluetoothAlwaysUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
-          "NSBluetoothPeripheralUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
-          "NSCameraUsageDescription": "To take a profile picture, allow YouTube Music to access your camera.",
-          "NSContactsUsageDescription": "This will allow you to invite your family into your membership plan.",
-          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube Music to discover and connect to devices such as your TV.",
-          "NSMicrophoneUsageDescription": "This lets you include audio with your videos.",
-          "NSPhotoLibraryAddUsageDescription": "To save images, allow YouTube Music to access your photo library.",
-          "NSPhotoLibraryUsageDescription": "To choose a profile picture, allow YouTube Music to access your photos."
-        }
+        "privacy": {}
       },
       "patreon": {}
     },
@@ -54,8 +39,6 @@
       "localizedDescription": "An app injected with ipapatch from asdfzxcbn.",
       "iconURL": "https://i.imgur.com/KU5tG0B.png",
       "tintColor": "#fc0434",
-      "category": "other",
-      "screenshots": [],
       "versions": [
         {
           "version": "20.19.3",
@@ -63,23 +46,11 @@
           "localizedDescription": null,
           "downloadURL": "https://github.com/ivillami0005/YTLite/releases/download/release/YouTubePlus_5.2b1-patched.ipa",
           "size": 115290931,
-          "buildVersion": "",
-          "minOSVersion": null
         }
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {
-          "NSCameraUsageDescription": "This lets you create videos using the app.",
-          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites.",
-          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
-          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
-          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
-          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
-          "NSLocationWhenInUseUsageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads.",
-          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
-          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
-        }
+        "privacy": {}
       },
       "patreon": {}
     },
@@ -87,13 +58,11 @@
       "name": "Discord",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "marketplaceID": "",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
+      "developerName": "IsmaelTech",
+      "subtitle": "Discord Modded Client",
       "localizedDescription": "A modded discord client but for iOS.",
       "iconURL": "https://i.imgur.com/KhlM4da.png",
       "tintColor": "#60609e",
-      "category": "other",
-      "screenshots": [],
       "versions": [
         {
           "version": "279.0",
@@ -101,25 +70,11 @@
           "localizedDescription": null,
           "downloadURL": "https://github.com/ivillami0005/BunnyTweak/releases/download/v279.0/Bunny-patched.ipa",
           "size": 95724503,
-          "buildVersion": "",
-          "minOSVersion": null
         }
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {
-          "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
-          "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
-          "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
-          "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
-          "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
-          "NSLocationAlwaysUsageDescription": "To enable services that require location",
-          "NSLocationWhenInUseUsageDescription": "To enable services that require location",
-          "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
-          "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
-          "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
-        }
+        "privacy": {}
       },
       "patreon": {}
     },
@@ -132,37 +87,18 @@
       "localizedDescription": "An app injected with ipapatch from asdfzxcbn.",
       "iconURL": "https://i.imgur.com/Xhw4G5g.png",
       "tintColor": "#7f7f7f",
-      "category": "other",
-      "screenshots": [],
       "versions": [
         {
           "version": "10.97.1",
           "date": "2025-05-16T03:32:00-07:00",
-          "localizedDescription": null,
+          "localizedDescription": "X/Twitter injected with ipapatch from asdfzxcvbn",
           "downloadURL": "https://github.com/ivillami0005/BHTwitter/releases/download/v4.4/BHTwitter-sideloaded_4.4_10.97.1-patched.ipa",
           "size": 167090585,
-          "buildVersion": "",
-          "minOSVersion": null
         }
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {
-          "NSAdvertisingAttributionReportEndpoint": "https://singular-bi.net",
-          "NSBluetoothAlwaysUsageDescription": "X uses bluetooth to discover Cast-enabled devices near you.",
-          "NSCameraUsageDescription": "Capture and post photos and videos from X.",
-          "NSUserTrackingUsageDescription": "This helps X show you more relevant ads.",
-          "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos.",
-          "NSLocalNetworkUsageDescription": "X uses the local network to discover Cast-enabled devices on your WiFi network.",
-          "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
-          "NSLocationUsageDescription": "Enjoy the X experience tailored to your location.",
-          "NSCalendarsUsageDescription": "Add events to your calendar from X.",
-          "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
-          "NSLocationWhenInUseUsageDescription": "Enjoy the X experience tailored to your location.",
-          "NSFaceIDUsageDescription": "Use FaceID to authenticate on X.",
-          "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
-          "NSPhotoLibraryUsageDescription": "Easily add photos on X."
-        }
+        "privacy": {}
       },
       "patreon": {}
     },
@@ -190,24 +126,7 @@
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {
-          "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
-          "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
-          "NSBluetoothPeripheralUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
-          "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
-          "NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
-          "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
-          "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
-          "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
-          "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
-          "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
-          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
-          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
-          "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
-          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
-          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
-          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you."
-        }
+        "privacy": {}
       },
       "patreon": {}
     },
@@ -240,16 +159,7 @@
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {
-          "NSBluetoothAlwaysUsageDescription": "Used to discover nearby Cast devices",
-          "NSCameraUsageDescription": "Used for scanning QR codes",
-          "NSBluetoothPeripheralUsageDescription": "Used for streaming media to external devices",
-          "NSPhotoLibraryAddUsageDescription": "Used for saving QR code",
-          "NSLocalNetworkUsageDescription": "Used to discover network shares and Google Cast devices in your local network",
-          "NSAppleMusicUsageDescription": "Please allow access in order to show iTunes videos.",
-          "NSMicrophoneUsageDescription": "Used for pairing with external devices",
-          "NSFaceIDUsageDescription": "Used for unlocking your device when restrictions are enabled"
-        }
+        "privacy": {}
       },
       "patreon": {}
     }
@@ -258,7 +168,7 @@
     {
       "title": "IsmaelTech Discord Server",
       "identifier": "ziddy-about",
-      "caption": "Feather allows you to use an Apple Developer Account to sign and install applications on device without needing a computer on stock iOS versions, while allowing easy management with its applications.\n\nDue to limitations, it's hard to tell if the application is actually installed, so you will need to keep track of whats on your device. This is an entirely stock application and uses built-in features to be able to do this!",
+      "caption": "The cli tool of ipapatch is fire! - asdfzxcvbn",
       "date": "2025-05-15T16:00",
       "tintColor": "#8A28F7",
       "imageURL": "https://i.imgur.com/58TYZsl.png",
