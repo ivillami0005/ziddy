@@ -1,15 +1,12 @@
 {
   "name": "Ziddy Repo",
   "identifier": "com.ismaeltech",
-  "subtitle": "A source for all of my apps",
-  "description": "Welcome to my source! Here you'll find all of my apps.",
   "iconURL": "https://i.imgur.com/kxhBIVt.png",
   "website": "https://ismaeltech.com",
   "apps": [
     {
       "name": "YouTube Music",
       "bundleIdentifier": "com.google.ios.youtubemusic",
-      "marketplaceID": "",
       "developerName": "IsmaelTech",
       "subtitle": "Music world dedicated to you.",
       "localizedDescription": "An app injected with ipapatch from asdfzxcbn.",
@@ -24,16 +21,11 @@
           "size": 95745474,
         }
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
+      "appPermissions": {},
     },
     {
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
-      "marketplaceID": "",
       "developerName": "IsmaelTech",
       "subtitle": "Vdeos, Music and Live Streams",
       "localizedDescription": "An app injected with ipapatch from asdfzxcbn.",
@@ -48,16 +40,11 @@
           "size": 115290931,
         }
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
+      "appPermissions": {},
     },
     {
       "name": "Discord",
       "bundleIdentifier": "com.hammerandchisel.discord",
-      "marketplaceID": "",
       "developerName": "IsmaelTech",
       "subtitle": "Discord Modded Client",
       "localizedDescription": "A modded discord client but for iOS.",
@@ -67,21 +54,16 @@
         {
           "version": "279.0",
           "date": "2025-05-16T03:40:00-07:00",
-          "localizedDescription": null,
+          "localizedDescription": "A modded discord client but for iOS.",
           "downloadURL": "https://github.com/ivillami0005/BunnyTweak/releases/download/v279.0/Bunny-patched.ipa",
           "size": 95724503,
         }
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
+      "appPermissions": {},
     },
     {
       "name": "X",
       "bundleIdentifier": "com.atebits.Tweetie2",
-      "marketplaceID": "",
       "developerName": "IsmaelTech",
       "subtitle": "Formerly Twitter",
       "localizedDescription": "An app injected with ipapatch from asdfzxcbn.",
@@ -96,50 +78,36 @@
           "size": 167090585,
         }
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
+      "appPermissions": {},
     },
     {
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
-      "marketplaceID": "",
       "developerName": "IsmaelTech",
       "subtitle": "Listen to songs and playlists",
       "localizedDescription": "EveeSpotify patched with ipapatch from asdfzxcvbn",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1f/61/0c1f6144-af80-f395-3204-1d14fd8b2be7/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#1cd464",
-      "category": "other",
       "screenshots": [],
       "versions": [
         {
           "version": "9.0.42",
           "date": "2025-05-15T07:20:00-07:00",
-          "localizedDescription": null,
+          "localizedDescription": "EveeSpotify patched with ipapatch from asdfzxcvbn",
           "downloadURL": "https://github.com/ivillami0005/SpotC-Plus-Plus/releases/download/v2.4.15/SpotC++.v2.4.15_v9.0.42.ipa-patched.ipa",
           "size": 86769664,
-          "buildVersion": "",
-          "minOSVersion": null
         }
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
+      "appPermissions": {},
     },
     {
       "name": "Infuse",
       "bundleIdentifier": "com.firecore.infuse",
-      "marketplaceID": "",
       "developerName": "IsmaelTech",
       "subtitle": "Infuse Plus",
       "localizedDescription": "Injected with Plus",
       "iconURL": "https://i.imgur.com/ca3u6DV.png",
       "tintColor": "#fc6c0c",
-      "category": "utilities",
       "screenshots": [
         "https://github.com/khcrysalis/Feather/blob/v1/Images/Library.png?raw=true",
         "https://github.com/khcrysalis/Feather/blob/v1/Images/Repos.png?raw=true",
@@ -153,15 +121,9 @@
           "localizedDescription": null,
           "downloadURL": "https://github.com/ivillami0005/InfusePlus/releases/download/Yay/InfusePlus_2.2-patched.ipa",
           "size": 70883737,
-          "buildVersion": "",
-          "minOSVersion": null
         }
       ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
+      "appPermissions": {},
     }
   ],
   "news": [
@@ -174,7 +136,6 @@
       "imageURL": "https://i.imgur.com/58TYZsl.png",
       "notify": true,
       "url": "https://discord.gg/gNgrNhrQYU",
-      "appID": null
     }
   ]
 }
