@@ -5,6 +5,20 @@
   "website": "https://ismaeltech.com",
   "apps": [
     {
+      "name": "PojavLauncher",
+      "bundleIdentifier": "net.kdt.pojavlauncher",
+      "developerName": "IsmaelTech",
+      "iconURL": "https://github.com/ivillami0005/ziddy/blob/4afa1d1061cf512b6a5b95a3efb80fc8b323b881/icon/net.kdt.pojavlauncher.png",
+      "localizedDescription": "Minecraft:Java Edition launcher for iOS, based on PojavLauncher",
+      "subtitle": "Minecraft:Java Edition but for iOS",
+      "tintColor": "#b4745c",
+      "version": "3.0",
+      "versionDate": "2025-05-16T03:59:00-07:00",
+      "size": 151900000,
+      "downloadURL": "https://github.com/ivillami0005/ziddy/releases/download/05-16-2025/net.kdt.pojavlauncher-3.0-ios.ipa",
+      "appPermissions": {}
+    },
+    {
       "name": "YouTube Music",
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "IsmaelTech",
