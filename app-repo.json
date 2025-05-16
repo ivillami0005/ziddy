@@ -8,17 +8,16 @@
       "name": "YouTube Music",
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "IsmaelTech",
-      "subtitle": "Music world dedicated to you.",
-      "localizedDescription": "An app injected with ipapatch from asdfzxcbn.",
       "iconURL": "https://i.imgur.com/E80raUh.png",
+      "localizedDescription": "An app injected with ipapatch from asdfzxcbn.",
+      "subtitle": "Music world dedicated to you.",
       "tintColor": "#fc0434",
       "versions": [
         {
           "version": "8.19.2",
           "date": "2025-05-16T03:59:00-07:00",
-          "localizedDescription":"An app injected with ipapatch from asdfzxcbn.",
-          "downloadURL": "https://github.com/ivillami0005/YTMusicUltimate/releases/download/yay/YTMusicUltimate-patched.ipa",
           "size": 95745474,
+          "downloadURL": "https://github.com/ivillami0005/YTMusicUltimate/releases/download/yay/YTMusicUltimate-patched.ipa",
         }
       ],
       "appPermissions": {},
@@ -27,17 +26,16 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "IsmaelTech",
-      "subtitle": "Vdeos, Music and Live Streams",
-      "localizedDescription": "An app injected with ipapatch from asdfzxcbn.",
       "iconURL": "https://i.imgur.com/KU5tG0B.png",
+      "localizedDescription": "An app injected with ipapatch from asdfzxcbn.",
+      "subtitle": "Vdeos, Music and Live Streams",
       "tintColor": "#fc0434",
       "versions": [
         {
           "version": "20.19.3",
           "date": "2025-05-16T03:52:00-07:00",
-          "localizedDescription": "An app injected with ipapatch from asdfzxcbn.",
-          "downloadURL": "https://github.com/ivillami0005/YTLite/releases/download/release/YouTubePlus_5.2b1-patched.ipa",
           "size": 115290931,
+          "downloadURL": "https://github.com/ivillami0005/YTLite/releases/download/release/YouTubePlus_5.2b1-patched.ipa",
         }
       ],
       "appPermissions": {},
@@ -46,17 +44,16 @@
       "name": "Discord",
       "bundleIdentifier": "com.hammerandchisel.discord",
       "developerName": "IsmaelTech",
-      "subtitle": "Discord Modded Client",
-      "localizedDescription": "A modded discord client but for iOS.",
       "iconURL": "https://i.imgur.com/KhlM4da.png",
+      "localizedDescription": "A modded discord client but for iOS.",
+      "subtitle": "Discord Modded Client",
       "tintColor": "#60609e",
       "versions": [
         {
           "version": "279.0",
           "date": "2025-05-16T03:40:00-07:00",
-          "localizedDescription": "A modded discord client but for iOS.",
-          "downloadURL": "https://github.com/ivillami0005/BunnyTweak/releases/download/v279.0/Bunny-patched.ipa",
           "size": 95724503,
+          "downloadURL": "https://github.com/ivillami0005/BunnyTweak/releases/download/v279.0/Bunny-patched.ipa",
         }
       ],
       "appPermissions": {},
@@ -65,17 +62,16 @@
       "name": "X",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "IsmaelTech",
+      "iconURL": "https://i.imgur.com/Xhw4G5g.png",
       "subtitle": "Formerly Twitter",
       "localizedDescription": "An app injected with ipapatch from asdfzxcbn.",
-      "iconURL": "https://i.imgur.com/Xhw4G5g.png",
       "tintColor": "#7f7f7f",
       "versions": [
         {
           "version": "10.97.1",
           "date": "2025-05-16T03:32:00-07:00",
-          "localizedDescription": "X/Twitter injected with ipapatch from asdfzxcvbn",
-          "downloadURL": "https://github.com/ivillami0005/BHTwitter/releases/download/v4.4/BHTwitter-sideloaded_4.4_10.97.1-patched.ipa",
           "size": 167090585,
+          "downloadURL": "https://github.com/ivillami0005/BHTwitter/releases/download/v4.4/BHTwitter-sideloaded_4.4_10.97.1-patched.ipa",
         }
       ],
       "appPermissions": {},
@@ -84,18 +80,17 @@
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "IsmaelTech",
-      "subtitle": "Listen to songs and playlists",
-      "localizedDescription": "EveeSpotify patched with ipapatch from asdfzxcvbn",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/1f/61/0c1f6144-af80-f395-3204-1d14fd8b2be7/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "EveeSpotify patched with ipapatch from asdfzxcvbn",
+      "subtitle": "Listen to songs and playlists",
       "tintColor": "#1cd464",
       "screenshots": [],
       "versions": [
         {
           "version": "9.0.42",
           "date": "2025-05-15T07:20:00-07:00",
-          "localizedDescription": "EveeSpotify patched with ipapatch from asdfzxcvbn",
-          "downloadURL": "https://github.com/ivillami0005/SpotC-Plus-Plus/releases/download/v2.4.15/SpotC++.v2.4.15_v9.0.42.ipa-patched.ipa",
           "size": 86769664,
+          "downloadURL": "https://github.com/ivillami0005/SpotC-Plus-Plus/releases/download/v2.4.15/SpotC++.v2.4.15_v9.0.42.ipa-patched.ipa",
         }
       ],
       "appPermissions": {},
@@ -104,23 +99,16 @@
       "name": "Infuse",
       "bundleIdentifier": "com.firecore.infuse",
       "developerName": "IsmaelTech",
-      "subtitle": "Infuse Plus",
-      "localizedDescription": "Injected with Plus",
       "iconURL": "https://i.imgur.com/ca3u6DV.png",
+      "localizedDescription": "Injected with Plus",
+      "subtitle": "Infuse Plus",
       "tintColor": "#fc6c0c",
-      "screenshots": [
-        "https://github.com/khcrysalis/Feather/blob/v1/Images/Library.png?raw=true",
-        "https://github.com/khcrysalis/Feather/blob/v1/Images/Repos.png?raw=true",
-        "https://github.com/khcrysalis/Feather/blob/v1/Images/Sign.png?raw=true",
-        "https://github.com/khcrysalis/Feather/blob/v1/Images/Store.png?raw=true"
-      ],
       "versions": [
         {
           "version": "8.1.6",
           "date": "2025-05-16T03:25:00-07:00",
-          "localizedDescription": "An app injected with ipapatch from asdfzxcbn.",
-          "downloadURL": "https://github.com/ivillami0005/InfusePlus/releases/download/Yay/InfusePlus_2.2-patched.ipa",
           "size": 70883737,
+          "downloadURL": "https://github.com/ivillami0005/InfusePlus/releases/download/Yay/InfusePlus_2.2-patched.ipa",
         }
       ],
       "appPermissions": {},
